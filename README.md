@@ -183,7 +183,6 @@ Paper-to-Presentation-Viva-Agent/
 - Improved presentation themes and layouts.
 - Additional vector database and LLM options.
 
-## 🎯 Project Objective
 ## 📸 Project Screenshot
 
 ![Paper-to-Presentation & Viva Agent](project_screenshot.png)
