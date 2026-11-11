@@ -184,6 +184,10 @@ Paper-to-Presentation-Viva-Agent/
 - Additional vector database and LLM options.
 
 ## 🎯 Project Objective
+## 📸 Project Screenshot
+
+![Paper-to-Presentation & Viva Agent](project_screenshot.png)
+
 
 To simplify academic research and presentation preparation through an intelligent AI-powered assistant that transforms research papers into structured, understandable and presentation-ready learning materials.
 
